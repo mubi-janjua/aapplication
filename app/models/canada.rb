@@ -1,0 +1,2 @@
+class Canada < ApplicationRecord
+end
